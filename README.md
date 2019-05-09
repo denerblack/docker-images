@@ -5,7 +5,7 @@
 Installed docker and docker-compose
 
 ## Commands
-In the root:
+Inside image directory:
 
 `docker-compose up` (create and up image)
 
